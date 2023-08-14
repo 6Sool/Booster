@@ -1,4 +1,1 @@
-# Booster
-Verify the installation by executing -verify in CMD.
-Put ur webhook in config.json
-Dont leak this project
+After running the file make sure to paste in the key.
